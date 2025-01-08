@@ -12,4 +12,4 @@ tool:
           - installSource:
               installers:
                 - adoptOpenJdkInstaller:
-                    id: "jdk-11.0.8+10"
+                    id: "jdk-11.0.14+9"
